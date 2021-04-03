@@ -15,7 +15,7 @@ $ python3 port_scanner.py -t (here enter target host)
 
 ![Programmer and Problems solver](https://github.com/hamza07-w/port_scanner/blob/main/a.jpg)
 
-## __🦅used modules?__
+## __🦅used modules__
 
 - socket
 - threading
