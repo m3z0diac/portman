@@ -54,12 +54,12 @@ def worker():
 			open_ports.append(port)
 
 def final_port_scan():
-	port_list = range(70, 100)
+	port_list = range(1, 65535)
 	fill_queque(port_list)
 
 	thread_list = []
 
-	for t in range(50):
+	for t in range(100):
 		thread = threading.Thread(target=worker)
 		thread_list.append(thread)
 
