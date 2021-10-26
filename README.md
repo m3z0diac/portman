@@ -1,5 +1,5 @@
-# port_scanner
-firste thing this port scanner its not at that perfiction like nmap, its a simple one for beginers to devlope it. have fun!
+# portman
+##### firste, this port scanner it's not that perfiction like nmap, it's a simple one for beginers to develope it. have fun!
 
 ## using
 
